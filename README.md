@@ -12,6 +12,7 @@ Perkenalkan, nama saya Faruq Aziz
 Saya adalah seorang pemula yang minat belajar hal baru
 
 Hal yang pernah saya buat dan masih belajar:
+<br />
 ![faruq1997 github stats](https://github-readme-stats.vercel.app/api?username=faruq1997&show_icons=true)
 <br />
 <br />
